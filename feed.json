@@ -11,18 +11,6 @@
     },
     "items": [
         {
-            "id": "https://olharoculto.github.io/teste.html",
-            "url": "https://olharoculto.github.io/teste.html",
-            "title": "teste",
-            "author": {
-                "name": "Olhar Oculto"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-07-16T01:33:53-03:00",
-            "date_modified": "2026-07-16T01:33:53-03:00"
-        },
-        {
             "id": "https://olharoculto.github.io/o-dilema-da-legitimacao-da-ditadura-do-judiciario-brasileiro.html",
             "url": "https://olharoculto.github.io/o-dilema-da-legitimacao-da-ditadura-do-judiciario-brasileiro.html",
             "title": "O dilema da legitimação da ditadura do judiciário brasileiro",
@@ -34,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2026-07-16T01:22:01-03:00",
-            "date_modified": "2026-07-16T01:22:01-03:00"
+            "date_modified": "2026-07-16T01:35:16-03:00"
         }
     ]
 }
