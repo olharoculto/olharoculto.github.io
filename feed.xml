@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Olhar Oculto</title>
+    <link href="https://olharoculto.github.io/feed.xml" rel="self" />
+    <link href="https://olharoculto.github.io" />
+    <updated>2026-07-16T01:33:53-03:00</updated>
+    <author>
+        <name>Olhar Oculto</name>
+    </author>
+    <id>https://olharoculto.github.io</id>
+
+    <entry>
+        <title>teste</title>
+        <author>
+            <name>Olhar Oculto</name>
+        </author>
+        <link href="https://olharoculto.github.io/teste.html"/>
+        <id>https://olharoculto.github.io/teste.html</id>
+
+        <updated>2026-07-16T01:33:53-03:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>O dilema da legitimação da ditadura do judiciário brasileiro</title>
+        <author>
+            <name>Olhar Oculto</name>
+        </author>
+        <link href="https://olharoculto.github.io/o-dilema-da-legitimacao-da-ditadura-do-judiciario-brasileiro.html"/>
+        <id>https://olharoculto.github.io/o-dilema-da-legitimacao-da-ditadura-do-judiciario-brasileiro.html</id>
+
+        <updated>2026-07-16T01:22:01-03:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    A premissa é direta: a direita brasileira não vai pôr fim à ditadura do judiciário em curso legitimando-a. E, no entanto, é precisamente isso que faz toda vez que encara as eleições convocadas e fiscalizadas pelos tribunais como se o voto fosse decisivo, como se&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>A premissa é direta: a direita brasileira não vai pôr fim à ditadura do judiciário em curso legitimando-a. E, no entanto, é precisamente isso que faz toda vez que encara as eleições convocadas e fiscalizadas pelos tribunais como se o voto fosse decisivo, como se o processo fosse justo e limpo.<br><br>Há uma contradição irreconciliável nesse gesto. Participar de um jogo cujas regras foram arquitetadas pelo Supremo Tribunal Federal e pelo Tribunal Superior Eleitoral para manter o status quo não é resistência — é cumplicidade vestida de oposição. Quando se caminha para as urnas convicto de que a disputa é legítima, concede-se ao judiciário aquilo que ele mais necessita: a aparência de consentimento popular. A máquina judiciária se alimenta dessa fachada democrática, e cada votação transmite a mensagem de que o sistema funciona, de que há competição real, de que a voz do eleitor importa.<br><br>Mas e se não importar? E se o processo for, desde sua estrutura, enviesado — não por fraudes pontuais, mas pela própria engrenagem judicial que o sustenta? Nesse cenário, comparecer às urnas sob a tutela dos tribunais não é exercer cidadania; é renovar o contrato com quem oprime.<br><br>A ordem certa das coisas é inversa. Antes de entrar no tabuleiro controlado pelo judiciário, é preciso questionar se o tabuleiro é legítimo. Antes de aceitar as regras impostas pelo STF e pelo TSE, é preciso denunciá-las publicamente, expor suas falhas, mostrar à sociedade que o jogo é marcado pelos magistrados. Denunciar e protestar contra as decisões judiciais não são etapas secundárias — são a condição prévia. Sem isso, qualquer vitória eleitoral é ilusória, e qualquer derrota é confirmatória.<br><br>A direita que se recusa a enxergar isso não está combatendo o judiciário autoritário — está alimentando-o. Cada eleição vivida como se fosse fiscalizada limpa concede aos tribunais mais uma capa de respeitabilidade, mais um ciclo de legitimação que dificulta a mobilização genuína contra a ordem judicial estabelecida.<br><br>O caminho não passa pela abstenção passiva nem pela participação ingênua nas eleições supervisionadas pelo judiciário. Passa pela denúncia clara das decisões dos tribunais, pela organização popular, pela tomada das ruas. Só quando a fachada democrática do judiciário estiver exposta e os magistrados não puderem mais esconder-se atrás do ritual eleitoral, fará sentido discutir estratégias dentro — ou fora — do sistema judicial.<br><br>Até lá, jogar o jogo do judiciário é perpetuar a ditadura do judiciário.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
