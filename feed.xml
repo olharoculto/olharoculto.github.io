@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Olhar Oculto</title>
-    <link href="https://olharoculto.pages.dev/feed.xml" rel="self" />
-    <link href="https://olharoculto.pages.dev" />
+    <link href="https://olharoculto.github.io/feed.xml" rel="self" />
+    <link href="https://olharoculto.github.io" />
     <updated>2026-07-16T13:26:51-03:00</updated>
     <author>
         <name>Olhar Oculto</name>
     </author>
-    <id>https://olharoculto.pages.dev</id>
+    <id>https://olharoculto.github.io</id>
 
     <entry>
         <title>A fragmentação da direita brasileira: entre a unidade perdida e o preço da cisão</title>
         <author>
             <name>Olhar Oculto</name>
         </author>
-        <link href="https://olharoculto.pages.dev/a-fragmentacao-da-direita-brasileira-entre-a-unidade-perdida-e-o-preco-da-cisao.html"/>
-        <id>https://olharoculto.pages.dev/a-fragmentacao-da-direita-brasileira-entre-a-unidade-perdida-e-o-preco-da-cisao.html</id>
+        <link href="https://olharoculto.github.io/a-fragmentacao-da-direita-brasileira-entre-a-unidade-perdida-e-o-preco-da-cisao.html"/>
+        <id>https://olharoculto.github.io/a-fragmentacao-da-direita-brasileira-entre-a-unidade-perdida-e-o-preco-da-cisao.html</id>
 
         <updated>2026-07-16T12:12:39-03:00</updated>
             <summary type="html">
@@ -34,8 +34,8 @@
         <author>
             <name>Olhar Oculto</name>
         </author>
-        <link href="https://olharoculto.pages.dev/o-dilema-da-legitimacao-da-ditadura-do-judiciario-brasileiro.html"/>
-        <id>https://olharoculto.pages.dev/o-dilema-da-legitimacao-da-ditadura-do-judiciario-brasileiro.html</id>
+        <link href="https://olharoculto.github.io/o-dilema-da-legitimacao-da-ditadura-do-judiciario-brasileiro.html"/>
+        <id>https://olharoculto.github.io/o-dilema-da-legitimacao-da-ditadura-do-judiciario-brasileiro.html</id>
 
         <updated>2026-07-16T10:35:34-03:00</updated>
             <summary type="html">
@@ -49,7 +49,7 @@
 <figure>
 <p><strong>Quem define o significado da lei no Brasil ainda é o Congresso? Ou passou a ser o STF?</strong><br><br>Quando o Judiciário altera as regras conforme sua conveniência, o Estado de Direito vira ficção — e as eleições, mero ritual para conferir aparência democrática a decisões tomadas nos gabinetes. A legitimidade do Judiciário brasileiro é construída a partir desse ritual que não é democrático.<br><br>Enquanto a direita insiste em participar de um sistema desenhado por quem deveria ser julgado, cada voto transforma-se em moeda de troca pela própria liberdade que diz defender.<br><br>Esta análise mostra por que a luta contra o judiciário autoritário começa exatamente onde a maioria recua: na recusa em validar o tabuleiro antes de questionar quem o desenhou.</p>
 </figure>
-<figure class="post__image"><img loading="lazy" src="https://olharoculto.pages.dev/media/posts/4/rui_barbosa_a_pior_ditadura_e_a_ditadura_do_poder_judic_ljrr34p.webp" alt="" width="600" height="450" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://olharoculto.pages.dev/media/posts/4/responsive/rui_barbosa_a_pior_ditadura_e_a_ditadura_do_poder_judic_ljrr34p-xs.webp 640w ,https://olharoculto.pages.dev/media/posts/4/responsive/rui_barbosa_a_pior_ditadura_e_a_ditadura_do_poder_judic_ljrr34p-sm.webp 768w ,https://olharoculto.pages.dev/media/posts/4/responsive/rui_barbosa_a_pior_ditadura_e_a_ditadura_do_poder_judic_ljrr34p-md.webp 1024w ,https://olharoculto.pages.dev/media/posts/4/responsive/rui_barbosa_a_pior_ditadura_e_a_ditadura_do_poder_judic_ljrr34p-lg.webp 1366w ,https://olharoculto.pages.dev/media/posts/4/responsive/rui_barbosa_a_pior_ditadura_e_a_ditadura_do_poder_judic_ljrr34p-xl.webp 1600w ,https://olharoculto.pages.dev/media/posts/4/responsive/rui_barbosa_a_pior_ditadura_e_a_ditadura_do_poder_judic_ljrr34p-2xl.webp 1920w">
+<figure class="post__image"><img loading="lazy" src="https://olharoculto.github.io/media/posts/4/rui_barbosa_a_pior_ditadura_e_a_ditadura_do_poder_judic_ljrr34p.webp" alt="" width="600" height="450" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://olharoculto.github.io/media/posts/4/responsive/rui_barbosa_a_pior_ditadura_e_a_ditadura_do_poder_judic_ljrr34p-xs.webp 640w ,https://olharoculto.github.io/media/posts/4/responsive/rui_barbosa_a_pior_ditadura_e_a_ditadura_do_poder_judic_ljrr34p-sm.webp 768w ,https://olharoculto.github.io/media/posts/4/responsive/rui_barbosa_a_pior_ditadura_e_a_ditadura_do_poder_judic_ljrr34p-md.webp 1024w ,https://olharoculto.github.io/media/posts/4/responsive/rui_barbosa_a_pior_ditadura_e_a_ditadura_do_poder_judic_ljrr34p-lg.webp 1366w ,https://olharoculto.github.io/media/posts/4/responsive/rui_barbosa_a_pior_ditadura_e_a_ditadura_do_poder_judic_ljrr34p-xl.webp 1600w ,https://olharoculto.github.io/media/posts/4/responsive/rui_barbosa_a_pior_ditadura_e_a_ditadura_do_poder_judic_ljrr34p-2xl.webp 1920w">
 <figcaption>A frase é atribuída a Rui Barbosa — jurista, escritor e político de renome internacional.</figcaption>
 </figure>
 <p><span style="font-size: inherit;">A premissa é direta: a direita brasileira não vai pôr fim à ditadura do judiciário em curso legitimando-a. E, no entanto, é precisamente isso que faz toda vez que encara as eleições convocadas e fiscalizadas pelos tribunais como se o voto fosse decisivo, como se o processo fosse justo e limpo.</span></p>
@@ -89,8 +89,8 @@
         <author>
             <name>Olhar Oculto</name>
         </author>
-        <link href="https://olharoculto.pages.dev/para-alem-da-democracia-a-ascensao-das-republicas-tecnologicas.html"/>
-        <id>https://olharoculto.pages.dev/para-alem-da-democracia-a-ascensao-das-republicas-tecnologicas.html</id>
+        <link href="https://olharoculto.github.io/para-alem-da-democracia-a-ascensao-das-republicas-tecnologicas.html"/>
+        <id>https://olharoculto.github.io/para-alem-da-democracia-a-ascensao-das-republicas-tecnologicas.html</id>
 
         <updated>2026-07-16T10:28:09-03:00</updated>
             <summary type="html">
@@ -100,7 +100,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <figure class="post__image"><img loading="lazy" src="https://olharoculto.pages.dev/media/posts/3/A-republica-tecnologica-dos-robos-2xl.jpg" alt="" width="987" height="555" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://olharoculto.pages.dev/media/posts/3/responsive/A-republica-tecnologica-dos-robos-2xl-xs.jpg 640w ,https://olharoculto.pages.dev/media/posts/3/responsive/A-republica-tecnologica-dos-robos-2xl-sm.jpg 768w ,https://olharoculto.pages.dev/media/posts/3/responsive/A-republica-tecnologica-dos-robos-2xl-md.jpg 1024w ,https://olharoculto.pages.dev/media/posts/3/responsive/A-republica-tecnologica-dos-robos-2xl-lg.jpg 1366w ,https://olharoculto.pages.dev/media/posts/3/responsive/A-republica-tecnologica-dos-robos-2xl-xl.jpg 1600w ,https://olharoculto.pages.dev/media/posts/3/responsive/A-republica-tecnologica-dos-robos-2xl-2xl.jpg 1920w">
+                <figure class="post__image"><img loading="lazy" src="https://olharoculto.github.io/media/posts/3/A-republica-tecnologica-dos-robos-2xl.jpg" alt="" width="987" height="555" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://olharoculto.github.io/media/posts/3/responsive/A-republica-tecnologica-dos-robos-2xl-xs.jpg 640w ,https://olharoculto.github.io/media/posts/3/responsive/A-republica-tecnologica-dos-robos-2xl-sm.jpg 768w ,https://olharoculto.github.io/media/posts/3/responsive/A-republica-tecnologica-dos-robos-2xl-md.jpg 1024w ,https://olharoculto.github.io/media/posts/3/responsive/A-republica-tecnologica-dos-robos-2xl-lg.jpg 1366w ,https://olharoculto.github.io/media/posts/3/responsive/A-republica-tecnologica-dos-robos-2xl-xl.jpg 1600w ,https://olharoculto.github.io/media/posts/3/responsive/A-republica-tecnologica-dos-robos-2xl-2xl.jpg 1920w">
 <figcaption>Quando o poder decisório migra dos parlamentos para os algoritmos, quem define as variáveis da equação? O futuro não chega — é programado. 🤖</figcaption>
 </figure>
 <div class="content-visibility-auto"> </div>
